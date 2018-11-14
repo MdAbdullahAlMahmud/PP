@@ -1,0 +1,1166 @@
+<resources>
+    <string name="app_name">Preposition 1100+ </string>
+    <string name="banner_ad">ca-app-pub-5140611371735970/3481126074</string>
+    <string name="interestial_ad">ca-app-pub-5140611371735970/2479025851</string>
+
+
+
+    <string-array name="firstcolum">
+        <item>A</item>
+        <item>E</item>
+        <item>I</item>
+        <item>M</item>
+        <item>Q</item>
+        <item>U</item>
+    </string-array>
+    <string-array name="secondcolum">
+        <item>B</item>
+        <item>F</item>
+        <item>J</item>
+        <item>N</item>
+        <item>R</item>
+        <item>V</item>
+        <item>Y</item>
+
+    </string-array>
+    <string-array name="thirdcolum">
+        <item>C</item>
+        <item>G</item>
+        <item>K</item>
+        <item>O</item>
+        <item>S</item>
+        <item>W</item>
+        <item>Z</item>
+
+    </string-array>
+    <string-array name="forthcolum">
+        <item>D</item>
+        <item>H</item>
+        <item>L</item>
+        <item>P</item>
+        <item>T</item>
+        <item>X</item>
+
+    </string-array>
+    <string-array name="lista">
+        <item>Abide by :</item>
+        <item>Abide with :</item>
+        <item>Abide in</item>
+        <item>Abstain from</item>
+        <item>Accuse of</item>
+        <item>Abound with</item>
+        <item>Abound in</item>
+        <item>Accede to</item>
+        <item>Account for</item>
+        <item>Account to</item>
+        <item>Admit to</item>
+        <item>Acquit of</item>
+        <item>Adhere to</item>
+        <item>Agree with</item>
+        <item>Agree to</item>
+        <item>Agree on</item>
+        <item>Apologise to</item>
+        <item>Apologise for</item>
+        <item>Answer for</item>
+        <item>Aim at</item>
+        <item>Appear before</item>
+        <item>Appear to</item>
+        <item>Appear in</item>
+        <item>Appeal to </item>
+        <item>Appeal against</item>
+        <item>Apply to</item>
+        <item>Apply to</item>
+        <item>Attend to</item>
+        <item>Attend at</item>
+        <item>Attend on</item>
+        <item>Approve of</item>
+        <item>Aspire after</item>
+        <item>Appoint to</item>
+        <item>Ask for</item>
+        <item>Avenge on,for</item>
+        <item>Atone for</item>
+        <item>Absorbed in</item>
+        <item>Absent from</item>
+        <item>Acquainted with</item>
+        <item>Addicated to</item>
+        <item>Accustomed to</item>
+        <item>Adjacent to</item>
+        <item>Adapted from </item>
+        <item>Accompanied by</item>
+        <item>Adequate to</item>
+        <item>Adapted for</item>
+        <item>Accountable to</item>
+        <item>Afraid of</item>
+        <item>Agreeable to</item>
+        <item>Alive to</item>
+        <item>Alien to</item>
+        <item>Alarmed at</item>
+        <item>Angry with</item>
+        <item>Annoyed with</item>
+        <item>Anxious about</item>
+        <item>Ashamed of</item>
+        <item>Astonished at</item>
+        <item>Appropriate to</item>
+        <item>Aware of</item>
+        <item>Attentive to</item>
+        <item>Affectionate to</item>
+        <item>Amazed at</item>
+        <item>Accomplished in</item>
+        <item> Ambitious of</item>
+        <item> Attach to </item>
+        <item> Alloted  to </item>
+        <item> Amenable to </item>
+        <item> Access to </item>
+        <item> Affection for </item>
+        <item> Ambition of </item>
+        <item> Appetite for  </item>
+        <item> Authority on   </item>
+        <item> Authority over</item>
+        <item> Authority for</item>
+        <item> Aversion to</item>
+        <item> Aptitude for</item>
+        <item> Apology for</item>
+        <item> Antidote to,for</item>
+        <item> Addiction to</item>
+        <item> Absence from</item>
+        <item> Aspire after</item>
+        <item> Assure of</item>
+        <item> Argue with</item>
+        <item> Apprise of</item>
+        <item> Abhorance of</item>
+        <item> Abhorent to</item>
+        <item> According to</item>
+    </string-array>
+    <string-array name="meaninga">
+        <item>মেনে চলা</item>
+        <item>সাথে থাকা</item>
+        <item>বাস করা</item>
+        <item>বিরত থাকা</item>
+        <item>অভিযোগ করা</item>
+        <item>পূর্ণ থাকা</item>
+        <item>প্রচুর পরিমানে থাকা</item>
+        <item>রাজি হওয়া</item>
+        <item>কোনো কিছুর জন্য কৈফিয়ত দেয়া</item>
+        <item>কাহারো কাছে কৈফিয়ত দেয়া</item>
+        <item>ভর্তি হওয়া</item>
+        <item>বেকুসুর খালাস দেয়া</item>
+        <item>লেগে থাকা</item>
+        <item>ব্যক্তির সাথে রাজি হওয়া</item>
+        <item>কোন প্রস্তাবে রাজি হওয়া</item>
+        <item>কোন বিষয়ে রাজি হওয়া</item>
+        <item>কারো কাছে ক্ষমা চাওয়া </item>
+        <item>কোন কিছুর জন্য ক্ষমা চাওয়া </item>
+        <item>কোন কিছুর জন্য জবাবদিহি করা</item>
+        <item>লক্ষ্য করা </item>
+        <item>হাজির হওয়া</item>
+        <item>প্রতিয়মান হওয়া</item>
+        <item>প্রকাশিত হওয়া </item>
+        <item>কারো কাছে আবেদন করা </item>
+        <item>পুনরায় বিচার করা</item>
+        <item>কারো কাছে আবেদন করা </item>
+        <item> প্রয়োগ করা</item>
+        <item> মনোযোগ দেয়া </item>
+        <item>গমন করা </item>
+        <item>সেবা করা </item>
+        <item>অনুমোদন করা </item>
+        <item>আকাঙ্ক্ষা করা </item>
+        <item>নিয়োগ করা </item>
+        <item>কারো কাছে কোন কিছু চাওয়া</item>
+        <item>কারো উপর কোন কিছুর প্রতিশোধ নেয়া</item>
+        <item> প্রায়চিত্ত করা </item>
+        <item>নিমগ্ন </item>
+        <item>অনুপস্থিত</item>
+        <item> পরিচিত </item>
+        <item>খারাপ কাজে আসক্ত </item>
+        <item>অভ্যস্ত </item>
+        <item>সংলগ্ন </item>
+        <item>গৃহীত </item>
+        <item>সাথে নিয়ে </item>
+        <item>পর্যাপ্ত</item>
+        <item>উপযোগী</item>
+        <item>কারো কাছে কোন কিছুর জন্য দায়ী </item>
+        <item>ভীত </item>
+        <item>রুচিসম্মত</item>
+        <item>জ্ঞাত </item>
+        <item>বিরোধী </item>
+        <item>সন্ত্রস্ত </item>
+        <item>কোন কিছুর জন্য কারো প্রতি রাগান্বিত  </item>
+        <item>কোন কিছুর জন্য কারো প্রতি বিরক্ত </item>
+        <item>চিন্তিত</item>
+        <item>লজ্জিত</item>
+        <item>বিস্মিত</item>
+        <item>উপযুক্ত </item>
+        <item>অবগত</item>
+        <item>মনযোগী </item>
+        <item>স্নেহ পূর্ণ </item>
+        <item>বিস্মত</item>
+        <item>দক্ষ</item>
+        <item>উচ্চাকাঙ্ক্ষা </item>
+        <item>জুড়ে দেয়া </item>
+        <item>বরাদ্দ করা </item>
+        <item>বাধ্য </item>
+        <item>প্রবেশাধিকার </item>
+        <item>স্নেহ</item>
+        <item>উচ্চাকাঙ্ক্ষা </item>
+        <item>ক্ষুধা </item>
+        <item>কিছুতে বিশেষজ্ঞ </item>
+        <item>আধিপত্য </item>
+        <item>প্রমান </item>
+        <item>বিতৃষ্ণা </item>
+        <item>প্রবণতা </item>
+        <item>ক্ষমা পার্থনা</item>
+        <item>প্রতিষেধক </item>
+        <item>মন্দ কাজে আসক্তি </item>
+        <item>অনুপস্থিত </item>
+        <item>উচ্চ আশা করা </item>
+        <item>নিশ্চিত করা </item>
+        <item>তর্ক করা </item>
+        <item>জ্ঞাত করা </item>
+        <item>ঘৃণা </item>
+        <item>ঘৃণা </item>
+        <item>অনুসারে </item>
+
+
+    </string-array>
+    <string-array name="listb">
+        <item>Bark at</item>
+        <item>Bar of</item>
+        <item>Based on</item>
+        <item>Bask in</item>
+        <item>Bewar of</item>
+        <item>Beg of</item>
+        <item>Beg for</item>
+        <item>Belived in</item>
+        <item>Beneficial to</item>
+        <item>Bereft of</item>
+        <item>Bent upon</item>
+        <item>Bequeath to</item>
+        <item>Beset with</item>
+        <item>Bestow on</item>
+        <item>Blind of</item>
+        <item>Blind to</item>
+        <item>Boast off</item>
+        <item>Born in</item>
+        <item>Born of</item>
+        <item>Born to</item>
+        <item>Borrow from</item>
+        <item>Bound for</item>
+        <item>Brood on</item>
+        <item>Burdened with</item>
+        <item>Busy at</item>
+        <item>Burst into</item>
+        <item>Burst out</item>
+
+    </string-array>
+    <string-array name="meaningb">
+        <item> ঘেউ ঘেউ করা</item>
+        <item> বাধা </item>
+        <item> উপর ভিত্তি করে </item>
+        <item> রৌদ্র পহান</item>
+        <item>সতর্ক হওয়া </item>
+        <item>প্রথন্না করা </item>
+        <item>প্রথন্না করা </item>
+        <item>বিশ্বাস করা </item>
+        <item>উপকারি </item>
+        <item>বঞ্ছিত  </item>
+        <item>সঙ্কল্প বদ্ধ </item>
+        <item>দান করা </item>
+        <item>বেস্তিত  </item>
+        <item>প্রদান করা</item>
+        <item>অন্ধ </item>
+        <item>দেখেও না দেখা</item>
+        <item>দম্ভ করা</item>
+        <item>জন্ম </item>
+        <item>জাত </item>
+        <item>জন্ম দেওয়া</item>
+        <item>ধার নেওয়া </item>
+        <item>কোন স্থান এর উদ্দশে যাত্রা </item>
+        <item>বিষণ্ণ ভাবে চিন্তা করা</item>
+        <item>ভারাক্রান্ত </item>
+        <item>ব্যা্ত</item>
+        <item>কান্না তে ভেঙ্গে পরা </item>
+        <item> হাসিতে পেটে পরান</item>
+        <item> বিশেষ </item>
+    </string-array>
+    <string-array name="listc">
+
+        <item>Capable of</item>
+        <item>Care for</item>
+        <item>Care of</item>
+        <item>Callous to</item>
+        <item>Capacity for</item>
+        <item>Cause for</item>
+        <item>Cause of</item>
+        <item>Caution of</item>
+        <item>Caution against</item>
+        <item>Close to</item>
+        <item>Clue to</item>
+        <item>Clear of</item>
+        <item>Cling to</item>
+        <item>Certain of</item>
+        <item>Characterised by</item>
+        <item>Charge against </item>
+        <item>Charge on </item>
+        <item>Clothed with </item>
+        <item>Clothed in </item>
+        <item>Communicate to </item>
+        <item>Communicate with </item>
+        <item>Coincide with </item>
+        <item>Compare with </item>
+        <item>Compare to </item>
+        <item>Commit to </item>
+        <item>Comment on </item>
+        <item>Commend to </item>
+        <item>Common to </item>
+        <item>Commence on </item>
+        <item>Compensate for  </item>
+        <item>Competent for  </item>
+        <item>Compete with  </item>
+        <item>Complain to,against  </item>
+        <item>Comply with  </item>
+        <item>Composed of  </item>
+        <item>Complement on  </item>
+        <item>Conceive  of  </item>
+        <item>Concentrate in,on  </item>
+        <item>Concerned in  </item>
+        <item>Concerned for  </item>
+        <item>Concur with  </item>
+        <item>Condemn to  </item>
+        <item>Condole with,on  </item>
+        <item>Conducive to  </item>
+        <item>Confess to  </item>
+        <item>Confide in  </item>
+        <item>Confide to  </item>
+        <item>Confident of   </item>
+        <item>Confined in  </item>
+        <item>Confined to  </item>
+        <item>Conform with  </item>
+        <item>Conform to  </item>
+        <item>Conformity with  </item>
+        <item>Confuse with  </item>
+        <item>Conceal form  </item>
+        <item>Congenial to  </item>
+        <item>Congratulate on  </item>
+        <item>Connives at  </item>
+        <item>Conscious of  </item>
+        <item>Consist of  </item>
+        <item>Consist in  </item>
+        <item>Consideration for  </item>
+        <item>Consistent with  </item>
+        <item>Conspicuous for  </item>
+        <item>Contemporary of,with  </item>
+        <item>Content with  </item>
+        <item>Contiguous to  </item>
+        <item>Contrary to  </item>
+        <item>Contrast to  </item>
+        <item>Contrast with  </item>
+        <item>Contribute to  </item>
+        <item>Control of,over  </item>
+        <item>Conversent with  </item>
+        <item>Converse with  </item>
+        <item>Converted to  </item>
+        <item>Convict of  </item>
+        <item>Convince of  </item>
+        <item>Copy with  </item>
+        <item>Correspond with,about  </item>
+        <item>Count for  </item>
+        <item>Convetous of  </item>
+        <item>Crave for,after  </item>
+        <item>Credit to  </item>
+        <item>Cure of  </item>
+        <item>Cure for  </item>
+    </string-array>
+    <string-array name="meaningc">
+        <item>সক্ষম </item>
+        <item>গ্রাহ্য করা</item>
+        <item>যত্ন </item>
+        <item>উদাসীন </item>
+        <item>দক্ষতা </item>
+        <item>কারণ ভবিষ্যৎ ঘটনার জন্য</item>
+        <item>কারণ </item>
+        <item>সতর্ক </item>
+        <item>সাবধান </item>
+        <item>নিকটে  </item>
+        <item>সূত্র  </item>
+        <item>মুক্ত  </item>
+        <item>লেগে থাকা   </item>
+        <item>নিশ্চিত থাকা  </item>
+        <item>সুচিহ্নত  </item>
+        <item>কারো বিরুধে অভিযোগ </item>
+        <item>অভিযুক্ত করা </item>
+        <item>সজ্জিত </item>
+        <item>পোশাক পরিহিত </item>
+        <item>খবর দেয়া </item>
+        <item>সংবাদ আদান প্রদান করা </item>
+        <item>মিলে যাওয়া </item>
+        <item>একই জাতিয় জিনিসের তুলনা করা</item>
+        <item>অসম বস্তুর তুলনা করা</item>
+        <item>মুখস্ত করা </item>
+        <item>মন্তব্য  করা</item>
+        <item>প্রশংসা করা </item>
+        <item>সাধারণ </item>
+        <item>শুরু হওয়া </item>
+        <item>ক্ষতিপূরণ করা </item>
+        <item>উপযুক্ত </item>
+        <item>প্রতিযোগিতা করা </item>
+        <item>অভিযোগ করা</item>
+        <item>সম্মত হওয়া </item>
+        <item>গঠিত </item>
+        <item>প্রশংসা করা </item>
+        <item>চিন্তা করা </item>
+        <item>মনযোগ দেয়া </item>
+        <item>সংশ্লিষ্ট</item>
+        <item>উদ্বিগ্ন</item>
+        <item>একমত হওয়া </item>
+        <item>দায়ী হওয়া </item>
+        <item>সমবেদনা প্রকাশ করা </item>
+        <item>উপকারি </item>
+        <item>স্বীকার করা </item>
+        <item>বিশ্বাস করা </item>
+        <item>বিশ্বাস করে বলা </item>
+        <item>আশাবাদী </item>
+        <item>আবদ্ধ </item>
+        <item>শয্যাগত </item>
+        <item>একমত হওয়া </item>
+        <item>মান্য করা </item>
+        <item>অনুসারে  </item>
+        <item>তালগোলে পাকানো  </item>
+        <item>লুকানো  </item>
+        <item>উপযোগী করা  </item>
+        <item>অভিনন্দন জ্ঞাপন করা  </item>
+        <item>উপেক্ষা করা  </item>
+        <item>সচেতন  </item>
+        <item>গঠিত  </item>
+        <item>নিহিত হওয়া  </item>
+        <item>বিবেচনা  </item>
+        <item>একই প্রকার  </item>
+        <item>গুরুত্বপূর্ণ  </item>
+        <item>সমসামায়ক  </item>
+        <item>প্রতিযগিতা করা </item>
+        <item> নিকটবর্তী  </item>
+        <item> বিপরিতভাবে  </item>
+        <item> বৈসাদৃশ্য  </item>
+        <item> বৈসাদৃশ্য দেখান </item>
+        <item> সাহায্য করা</item>
+        <item> নিয়ন্ত্রন করা </item>
+        <item> পুরপুরি অবগত </item>
+        <item> আলাপ আলোচনা করা </item>
+        <item> ধর্মান্তরিত </item>
+        <item> অপরাধি বলে রায় দেয়া</item>
+        <item> বিশ্বাস জন্মানো </item>
+        <item> এঁটে উঠা </item>
+        <item> চিঠি পত্রের আদান প্রদান</item>
+        <item> বিবেচিত হওয়া </item>
+        <item> লোভী </item>
+        <item> বাসনা করা </item>
+        <item> জমা করা </item>
+        <item> আরোগ্য হওয়া </item>
+        <item> প্রতিকার </item>
+
+    </string-array>
+    <string-array name="listd">
+        <item>Dawn on </item>
+        <item>Deaf to </item>
+        <item>Deal in </item>
+        <item>Deal with</item>
+        <item>Decide upon</item>
+        <item>Decide against</item>
+        <item>Dedicated to</item>
+        <item>Defend from</item>
+        <item>Defend against</item>
+        <item>Delete from</item>
+        <item>Delight in</item>
+        <item>Deliver to </item>
+    </string-array>
+    <string-array name="meaningd">
+        <item>প্রতিভাত হওয়া </item>
+        <item>বধির</item>
+        <item>ব্যবসা করা </item>
+        <item>ব্যবহার করা </item>
+        <item>স্থির করা </item>
+        <item>বিরদ্ধে সিধান্ত নেয়া </item>
+        <item>উৎসর্গ করা</item>
+        <item>রক্ষা করা  </item>
+        <item>নিরাপত্তা বিধান করা </item>
+        <item>বাদ দেয়া </item>
+        <item>আনন্দিত হওয়া  </item>
+        <item>দেয়া </item>
+    </string-array>
+
+    <string-array name="liste">
+        <item>Expose to</item>
+        <item>Expert at </item>
+        <item>Expert in </item>
+        <item>Excuse from </item>
+        <item>Excuse for</item>
+        <item>Expect from</item>
+        <item>Exult over</item>
+        <item>Exclude from</item>
+        <item>Exclusive of</item>
+        <item>Exhausted with</item>
+
+    </string-array>
+    <string-array name="meaninge">
+        <item>অনাবৃত রাখা </item>
+        <item>দক্ষ </item>
+        <item> দক্ষ </item>
+        <item>ক্ষমা করা</item>
+        <item>কৈফিয়ত </item>
+        <item>আশা করা </item>
+        <item>আনন্দ করা </item>
+        <item>বাদ দেয়া</item>
+        <item>বাদ দিয়ে</item>
+        <item>ক্লান্ত </item>
+    </string-array>
+    <string-array name="listf">
+        <item>Faith in</item>
+        <item>Faith with</item>
+        <item>Faithful to </item>
+        <item>Failure of </item>
+        <item>False to </item>
+        <item>Familiar with  </item>
+        <item>Famous for </item>
+        <item>Favourable  for</item>
+        <item>Favour  of</item>
+        <item>Fear of</item>
+        <item>Fear for</item>
+    </string-array>
+    <string-array name="meaningf">
+        <item>বিশ্বাস </item>
+        <item>বিশ্বাসতা</item>
+        <item>বিশ্বাসী</item>
+        <item>সাফল্যহীনতা</item>
+        <item> অবিশ্বাস </item>
+        <item> ঘনিষ্ঠ </item>
+        <item> বিখ্যাত </item>
+        <item> অনুকুল </item>
+        <item> পক্ষে </item>
+        <item> ভয় </item>
+        <item> আতঙ্ক</item>
+    </string-array>
+    <string-array name="listg">
+        <item>Glad of</item>
+        <item>Glad at</item>
+        <item>Glance at</item>
+        <item>Glance over</item>
+        <item>Glimpse of</item>
+        <item>Glory in</item>
+        <item>Good at</item>
+        <item>Grateful to, for</item>
+        <item>Grasp at</item>
+        <item>Greedy of or after</item>
+        <item>Grieve at or for or about</item>
+        <item>Grumbles at about</item>
+        <item>Guard from</item>
+        <item>Guard against</item>
+        <item>Guess at</item>
+        <item>Guilty of</item>
+    </string-array>
+    <string-array name="meaningg">
+        <item> সন্তুষ্ট </item>
+        <item> আনন্দিত </item>
+        <item> তাকান </item>
+        <item> চোখ বুলানো </item>
+        <item>  এক পলক দেখা </item>
+        <item> গর্ভ অনুভব করা </item>
+        <item> দক্ষ </item>
+        <item> কৃতজ্ঞ </item>
+        <item> আঁকড়িয়ে ধরা </item>
+        <item> লোভী </item>
+        <item> দুঃখ করা </item>
+        <item> অসন্তোষ প্রকাশ করা </item>
+        <item> পাহারা দেয়া </item>
+        <item> সতর্ক করা </item>
+        <item> অনুমান করা </item>
+        <item> দোষী </item>
+    </string-array>
+    <string-array name="listh">
+        <item>Hanker after</item>
+        <item>Hatred of or for</item>
+        <item>Heed to</item>
+        <item>Hesitate at</item>
+        <item>Hinder from</item>
+        <item>Hindrance to</item>
+        <item>Hint at </item>
+        <item>Hope of</item>
+        <item>Hopeful of</item>
+        <item>Hit upon </item>
+        <item>Hostile of</item>
+        <item>Hunt after or for</item>
+    </string-array>
+    <string-array name="meaningh">
+        <item> লালায়িত </item>
+        <item> ঘৃণা </item>
+        <item> মন দেয়ে শোনা </item>
+        <item> উতরাধিকারি বাক্তি </item>
+        <item> ইতস্ত করা </item>
+        <item> বাঁধা  </item>
+        <item> আভাস দেয়া </item>
+        <item> আশা  </item>
+        <item> আশাবাদী </item>
+        <item> মতলব খাটানো </item>
+        <item> বিরোধী </item>
+        <item> হন্যে হয়ে  ফেরা</item>
+    </string-array>
+
+    <string-array name="listi">
+        <item>Ignorant of</item>
+        <item>Ill with</item>
+        <item>Immersed in</item>
+        <item>Impatient of</item>
+        <item>Impose upon</item>
+        <item>Impress with</item>
+        <item>Incentive to</item>
+        <item>Include in</item>
+        <item>Inclination to or for</item>
+        <item>Imcumbent on</item>
+        <item>Indebted to</item>
+        <item>Independent of</item>
+        <item>Indifferent to</item>
+        <item>Indispensible to</item>
+        <item>Influence over</item>
+        <item>Influence on or upon </item>
+        <item>Influenced by </item>
+        <item>Inform against</item>
+        <item>Inform of</item>
+        <item>Inherent in</item>
+        <item>Innocent of </item>
+        <item>Inquire of or about</item>
+        <item>Insist on</item>
+        <item>Inspire with</item>
+        <item>Instinct with</item>
+        <item>Interest in</item>
+        <item>Interfere with,in</item>
+        <item>Intimate to</item>
+        <item>Introduce to</item>
+        <item>Intrude upon </item>
+        <item>Invest with</item>
+        <item>Involve in </item>
+        <item>Irrelevent to</item>
+        <item>Irrespective of</item>
+    </string-array>
+    <string-array name="meaningi">
+        <item> অজ্ঞ </item>
+        <item> পীরিত </item>
+        <item> নিমজ্জিত </item>
+        <item> অধীর </item>
+        <item> ধার্য করা </item>
+        <item> চাপানো </item>
+        <item> উৎসাহ দেয়া </item>
+        <item> অন্তর্ভুক্ত করা </item>
+        <item> প্রবণতা , ঝোঁক </item>
+        <item> কর্তব্য </item>
+        <item> ঋণী </item>
+        <item> স্বাধীন </item>
+        <item> উদাসীন </item>
+        <item> একান্ত আবশ্যক </item>
+        <item> প্রভাব</item>
+        <item> প্রভাব </item>
+        <item> প্রভাবিত </item>
+        <item> কাহারও  বিরুদ্ধে অভিযোগ আনা </item>
+        <item> কোন বস্ত সমন্ধে জানানো </item>
+        <item> সহজাত</item>
+        <item> নির্দোষ </item>
+        <item> জিজ্ঞাস করা </item>
+        <item> জেদ করা </item>
+        <item> অনুপ্রানিত করা </item>
+        <item> অনুপ্রানিত </item>
+        <item> মনোযোগ দেয়া </item>
+        <item> অনধিকার চর্চা করা </item>
+        <item> ঘনিষ্ঠ </item>
+        <item> জানানো </item>
+        <item> পরিচয় করা </item>
+        <item> অনধিকার প্রবেশ </item>
+        <item> ভূষিত করা </item>
+        <item> লিপ্ত হওয়া </item>
+        <item> অপ্রাসঙ্গিক </item>
+        <item> নির্বিচারে </item>
+    </string-array>
+    <string-array name="listj">
+        <item>Jelous of</item>
+        <item>Jeer at </item>
+        <item>Jest at</item>
+        <item>Join to or with</item>
+        <item>Judge by</item>
+        <item>Justification for</item>
+
+    </string-array>
+    <string-array name="meaningj">
+        <item> ঈরশাপরায়ন</item>
+        <item> ঠাট্টা করা</item>
+        <item> তামাসা করা</item>
+        <item> সংযোগ করা </item>
+        <item>বিচার করা </item>
+        <item>সমর্থন  </item>
+
+    </string-array>
+    <string-array name="listk">
+        <item>Key to</item>
+        <item>Kind to</item>
+
+
+    </string-array>
+    <string-array name="meaningk">
+        <item> চাবিকাঠি </item>
+        <item> দয়ালু </item>
+    </string-array>
+    <string-array name="listl">
+        <item> Lack of</item>
+        <item>Lack in  </item>
+        <item>Lame of </item>
+        <item> Lament for</item>
+        <item>Laugh at </item>
+        <item> Lavish of</item>
+        <item>Level with </item>
+        <item>Liable to </item>
+        <item>Liable for </item>
+        <item>Likeness to </item>
+        <item>Liking for </item>
+        <item> Live in</item>
+        <item> Live for</item>
+        <item> Long for </item>
+        <item>Lost in </item>
+
+
+    </string-array>
+
+    <string-array name="meaningl">
+        <item>অভাব  </item>
+        <item>অভাব করা  </item>
+        <item>খোঁড়া  </item>
+        <item>অনুতাপ করা  </item>
+        <item>ঠাট্টা করা  </item>
+        <item>অমিতবায়ি  </item>
+        <item> সমান করা  </item>
+        <item> দায়ী </item>
+        <item> দায়ী </item>
+        <item> সাদৃশ্য </item>
+        <item> পছন্দ </item>
+        <item> বাস করা </item>
+        <item> খাইয়া জীবন ধারন করা </item>
+        <item> প্রত্যাশা করা </item>
+        <item> নষ্ট  হওয়া </item>
+
+
+    </string-array>
+
+    <string-array name="listm">
+        <item>Marry to </item>
+        <item> Martyr to</item>
+        <item> Match for</item>
+        <item> Medicate on/upon</item>
+        <item> Meet with</item>
+        <item> Mindful of</item>
+        <item> Mix with</item>
+        <item> Merge with</item>
+        <item> Mourn for</item>
+        <item> Moved by</item>
+        <item> Muse on</item>
+
+    </string-array>
+
+    <string-array name="meaningm">
+        <item>বিবাহিত </item>
+        <item>শহীদ  </item>
+        <item>তুলিনিয় </item>
+        <item> গভীরভাবে চিন্তাভাবনা করা</item>
+        <item>সম্মুখীন হওয়া  </item>
+        <item>মনোযোগী  </item>
+        <item> মিশ্রিত করা  </item>
+        <item>মিলিত হওয়া </item>
+        <item>শোক করা </item>
+        <item>বিচলিত হওয়া  </item>
+        <item>গভীরভাবে চিন্তা করা </item>
+
+    </string-array>
+
+    <string-array name="listn">
+        <item>Natural to </item>
+        <item>Necessary for </item>
+        <item> Necessity to</item>
+        <item> Necessary for</item>
+        <item> Need of</item>
+        <item> Nedlectful of</item>
+        <item> Negigent in</item>
+        <item> Noted for</item>
+
+    </string-array>
+
+    <string-array name="meaningn">
+        <item>স্বাভাবিক </item>
+        <item>আবশ্যকতা  </item>
+        <item>প্রয়োজনীয়তা  </item>
+        <item> দরকারী </item>
+        <item> প্রয়োজন </item>
+        <item>অমনোযোগী </item>
+        <item>অমনযোগী </item>
+        <item>খ্যাত  </item>
+
+    </string-array>
+
+    <string-array name="listo">
+        <item>Object to </item>
+        <item> Objection to /against</item>
+        <item>Oblige to/for</item>
+        <item> Obligatory on</item>
+        <item> Oblivious of</item>
+        <item> Observant of</item>
+        <item> Obstacle to</item>
+        <item> Occupied with</item>
+        <item> Occuoied in</item>
+        <item> Offend against</item>
+        <item> Offensive to</item>
+        <item> Open to</item>
+        <item> Opportunity for</item>
+        <item> Opportunity  of</item>
+        <item> Oppositon to</item>
+        <item> Originate with/from</item>
+        <item> Originate in/from</item>
+        <item> Oust from</item>
+        <item> Overwhelmed with</item>
+        <item> Owe to</item>
+
+    </string-array>
+
+    <string-array name="meaningo">
+        <item>আপত্তি করা </item>
+        <item>আপত্তি</item>
+        <item>বাধিত </item>
+        <item>বাধতামুলক </item>
+        <item> বিস্তৃত </item>
+        <item> পর্যবেক্ষক </item>
+        <item>বাঁধা </item>
+        <item>বাস্ত </item>
+        <item>বাপিত </item>
+        <item>লঙ্ঘন করা </item>
+        <item>পীড়াদারক </item>
+        <item> উন্মুক্ত </item>
+        <item>সুযোগ  </item>
+        <item>সুবিধা </item>
+        <item> বিরোধিতা</item>
+        <item> উৎপন্ন হওয়া </item>
+        <item>শুরু হওয়া </item>
+        <item> বহিষ্কৃত </item>
+        <item>অভিভূত</item>
+        <item> ঋণী হওয়া </item>
+
+    </string-array>
+
+    <string-array name="listp">
+        <item>parallel to</item>
+        <item>parody no/of</item>
+        <item>part from</item>
+        <item>part with</item>
+        <item>partial to</item>
+        <item>partiality to/for</item>
+        <item>passion for</item>
+        <item>patient of</item>
+        <item>patience with</item>
+        <item>Parmit of</item>
+        <item>Play at</item>
+        <item>Play on</item>
+        <item>Play with</item>
+        <item>Plead for</item>
+        <item>Plead against</item>
+        <item>Plunged in</item>
+        <item>Ponder over</item>
+        <item>Popularwith for</item>
+        <item>Possessed of</item>
+        <item>Precaution against</item>
+        <item>Prefer to</item>
+        <item>Preferable to </item>
+        <item>Prejustice against</item>
+        <item>prejustical to</item>
+        <item>Prepare for</item>
+
+
+    </string-array>
+
+    <string-array name="meaningp">
+        <item> সমান্তরাল </item>
+        <item> বিরিদ্দপাত্তক নকল </item>
+        <item> কোন বাক্তি হতে বিচ্ছিন হওয়া</item>
+        <item> কোন বস্ত ত্যাগ করা </item>
+        <item> পক্ষপাতদুষ্ট </item>
+        <item> পক্ষপাতিত্ব </item>
+        <item> ভাবাবেগ</item>
+        <item> সহিঞ্ছ </item>
+        <item> ধৈর্য </item>
+        <item> মনুজুর হওয়ার যোগ্য </item>
+        <item> খেলা করা </item>
+        <item> বাজান </item>
+        <item> হেলা খেলা করা </item>
+        <item> আবেদন করা </item>
+        <item> পক্ষ সমর্থনে বাদানুবাদ </item>
+        <item> নিম্মজিত </item>
+        <item> গভির ভাবে চিন্তা করা </item>
+        <item> জনপ্রিয় </item>
+        <item> অধিকারি </item>
+        <item> সতর্কতা </item>
+        <item> পছন্দ করা </item>
+        <item> পছন্দনীয় </item>
+        <item> পূর্ব সংস্কার </item>
+        <item> ক্ষতি করা </item>
+        <item> প্রস্তুতি নেয়া </item>
+
+
+    </string-array>
+
+    <string-array name="listq">
+        <item> Qualified for</item>
+        <item> Quarrel with</item>
+        <item> Quarrel about</item>
+        <item> Quick at</item>
+    </string-array>
+
+    <string-array name="meaningq">
+        <item> উপযুক্ত </item>
+        <item> কারো সাথে ঝগড়া করা </item>
+        <item> বিষয়ে কলহ </item>
+        <item> চটপটে</item>
+
+    </string-array>
+
+    <string-array name="listr">
+        <item>Relevant to</item>
+        <item>Relieved of</item>
+        <item>Rely on</item>
+        <item>Remarkable for</item>
+        <item>Remedy for</item>
+        <item>Remind of</item>
+        <item>Repent of</item>
+        <item>Repentence for</item>
+        <item>Replace by</item>
+        <item>Requisite for</item>
+        <item>Resort to</item>
+        <item>Respect for</item>
+        <item>Respond to</item>
+        <item>Responsible to</item>
+        <item>Restrict to</item>
+        <item>Result of</item>
+        <item>Result from</item>
+        <item>Result in</item>
+        <item>Retire from</item>
+        <item>retire to</item>
+        <item>Revenge upon</item>
+        <item>Rob of</item>
+
+    </string-array>
+
+    <string-array name="meaningr">
+        <item> প্রাসাঙ্গিক </item>
+        <item>মুক্ত হওয়া </item>
+        <item>নির্ভর করা </item>
+        <item>বিখ্যাত </item>
+        <item>প্রতিকার </item>
+        <item>মনে করিয়া দেয়া </item>
+        <item>অনুতাপ করা </item>
+        <item>অনুতাপ </item>
+        <item>স্থানান্ত্রর হওয়া </item>
+        <item>প্রয়োজনীয় জিনিস  </item>
+        <item>গ্রহণ করা </item>
+        <item>ভক্তি </item>
+        <item>জবাব দেয়া </item>
+        <item>দায়ী </item>
+        <item>সিমাবদ্ধ </item>
+        <item>ফল </item>
+        <item>উদ্ভুত হওয়া </item>
+        <item>ফলে পর্যবসিত হওয়া </item>
+        <item>অবসর গ্রহণ করা  </item>
+        <item>বিশ্রাম করা </item>
+        <item>প্রতিশোধ গ্রহণ করা </item>
+        <item>চুরি করা</item>
+
+
+    </string-array>
+
+    <string-array name="lists">
+        <item>Sanguine of</item>
+        <item>Satisfied with</item>
+        <item>Satisfied of </item>
+        <item>Satisfaction in</item>
+        <item>Search for</item>
+        <item>Secure from</item>
+        <item>Seek for</item>
+        <item>Sensible of</item>
+        <item>Sensitive to</item>
+        <item>Short of </item>
+        <item>Sick of </item>
+        <item>Slide with</item>
+        <item>Similar to</item>
+        <item>Sin against</item>
+
+
+    </string-array>
+
+    <string-array name="meanings">
+        <item> আশাবাদী </item>
+        <item> সন্তুষ্ট </item>
+        <item> নিঃসন্দেহে </item>
+        <item> সন্তোষ </item>
+        <item> অনুসন্ধান</item>
+        <item> নিরাপদ</item>
+        <item> খোঁজ করা </item>
+        <item> অবগত </item>
+        <item> সংবেদনশীল </item>
+        <item> অভাবগ্রস্ত </item>
+        <item> ক্লান্ত </item>
+        <item> পক্ষ গ্রহন করা </item>
+        <item> সমান </item>
+        <item> পাপ করা </item>
+
+    </string-array>
+
+    <string-array name="listt">
+        <item> Talk to,about</item>
+        <item> Taste of</item>
+        <item> Taste for</item>
+        <item> Thankful for,to</item>
+        <item> Thirst for</item>
+        <item> Tired with</item>
+        <item> Tired of</item>
+        <item> Tolerant of</item>
+        <item> Triumph over</item>
+        <item> True to</item>
+        <item> trust to</item>
+        <item> Trust with</item>
+        <item> trust in</item>
+
+    </string-array>
+
+    <string-array name="meaningt">
+        <item> আলাপ আলোচনা করা </item>
+        <item> স্বাদ </item>
+        <item> পছন্দ </item>
+        <item> কৃতজ্ঞ </item>
+        <item> বাসনা</item>
+        <item> ক্লান্ত </item>
+        <item> বিরক্ত </item>
+        <item> সহনশীল </item>
+        <item> জয়লাভ করা </item>
+        <item> অটল </item>
+        <item> নির্ভর করা </item>
+        <item> বিশ্বাস করা </item>
+        <item> বিশ্বাস করা </item>
+
+
+    </string-array>
+
+    <string-array name="listu">
+        <item> union with</item>
+        <item> Unite with</item>
+        <item> Urge upon</item>
+        <item> Use for</item>
+        <item> Use of</item>
+        <item> Used to</item>
+        <item> Useful to</item>
+
+    </string-array>
+
+    <string-array name="meaningu">
+        <item> মিলন</item>
+        <item> মিলন হওয়া </item>
+        <item> পীড়াপীড়ি করা </item>
+        <item> প্রয়োজন </item>
+        <item> প্রয়োজন </item>
+        <item> অভ্যস্ত </item>
+        <item> প্রযোজনীয় </item>
+
+
+    </string-array>
+
+    <string-array name="listv">
+        <item> Vain of</item>
+        <item> vary from</item>
+        <item> Versed in</item>
+        <item> Vest in</item>
+        <item> Vest with</item>
+        <item> Vexed with</item>
+        <item> Victm of</item>
+        <item> Victim to</item>
+        <item> Vie with</item>
+        <item> Visit to</item>
+        <item> Void of</item>
+        <item> Vote for</item>
+
+    </string-array>
+
+    <string-array name="meaningv">
+        <item> গর্বিত </item>
+        <item> পৃথক করা </item>
+        <item> দক্ষ </item>
+        <item> অর্পিত </item>
+        <item> ন্যাস্ত  </item>
+        <item> বিরক্ত </item>
+        <item> কবলে পতিত </item>
+        <item> শিকার </item>
+        <item> প্রতিযোগিতা  করা</item>
+        <item> প্রদর্শন </item>
+        <item> বিরহিত </item>
+        <item> ভোট দেয়া </item>
+
+
+    </string-array>
+
+    <string-array name="listw">
+        <item>Wait for</item>
+        <item> Wait upon</item>
+        <item> Want of</item>
+        <item> Warn against</item>
+        <item> Wink at</item>
+        <item> Wish for</item>
+        <item> Wonder at</item>
+        <item> Worthy of</item>
+
+    </string-array>
+
+    <string-array name="meaningw">
+        <item> অপেক্ষা করা</item>
+        <item> সেবা করা </item>
+        <item> অভাব </item>
+        <item> কার বিরুদ্ধে সতর্ক করা </item>
+        <item> দেখেও না দেখা </item>
+        <item> বাসনা করা </item>
+        <item> অবাক করা </item>
+        <item> যোগ্য </item>
+
+
+    </string-array>
+
+    <string-array name="listx">
+        <item>No Preposition on our List</item>
+
+    </string-array>
+
+    <string-array name="meaningx">
+        <item>  </item>
+
+    </string-array>
+
+    <string-array name="listy">
+        <item>Yield to </item>
+
+    </string-array>
+
+    <string-array name="meaningy">
+        <item> নতি স্বীকার করা </item>
+
+
+    </string-array>
+
+    <string-array name="listz">
+        <item> Zealous for</item>
+        <item> Zest for</item>
+        <item> Zeal for</item>
+
+    </string-array>
+
+    <string-array name="meaningz">
+        <item> উৎসাহী </item>
+        <item> অনুরাগ</item>
+        <item>  উৎসাহী </item>
+
+    </string-array>
+
+
+</resources>
